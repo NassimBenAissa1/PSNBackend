@@ -1,4 +1,4 @@
-package com.example.PSNBackend.Controllers;
+package com.example.PSNBackend.controllers;
 
 import com.example.PSNBackend.models.User;
 import com.example.PSNBackend.repositories.UserRepository;
